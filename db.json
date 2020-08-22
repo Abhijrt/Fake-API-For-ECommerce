@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Office Chair",
+      "description": "It a best Chair",
+      "price": 2000,
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "name": "Red Seat",
+      "description": "It a color full seat",
+      "price": 4000,
+      "rating": 3
+    }
+  ]
+}
